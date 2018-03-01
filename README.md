@@ -1,2 +1,2 @@
 # ProjectMeal
-#An ecoomerce store created using ruby on rails
+#An ecommerce store created using ruby on rails
